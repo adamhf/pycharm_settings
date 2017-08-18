@@ -1,0 +1,209 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.10 (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/348993582" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/dev/dennis_trunk/env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/dev/dennis_trunk/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/dev/dennis_trunk/env/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/dev/dennis_trunk/env/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/dev/dennis_trunk/env/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-2086111448" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote  unknown interpreter (ssh://aharrison-fuller@dev-gnpd-production-app01.london.mintel.ad:22/home/aharrison-fuller/gnpd_de_packaging/environ/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.8" />
+      <homePath value="ssh://aharrison-fuller@dev-gnpd-production-app01.london.mintel.ad:22/home/aharrison-fuller/gnpd_de_packaging/environ/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/71109807" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/-933942901" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/1046329483" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/1646818737" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/-1343052241" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/1020429489" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/382247939" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-485473614" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="dev-gnpd-production-app01.london.mintel.ad" PORT="22" USERNAME="aharrison-fuller" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/mintel/id_rsa" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/home/aharrison-fuller/gnpd_de_packaging/environ/bin/python" HELPERS_PATH="/data/home/london/aharrison-fuller/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.8">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-485473614/71109807" remote-root="/data/home/london/aharrison-fuller/gnpd_de_packaging/gnpd_packaging_de" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-485473614/-933942901" remote-root="/home/aharrison-fuller/gnpd_de_packaging/environ/lib64/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-485473614/1046329483" remote-root="/opt/rh/python27/root/usr/lib64/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-485473614/1646818737" remote-root="/home/aharrison-fuller/gnpd_de_packaging/environ/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-485473614/-1343052241" remote-root="/opt/rh/python27/root/usr/lib64/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/-485473614/1020429489" remote-root="/opt/rh/python27/root/usr/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2130187200/71109807" remote-root="/data/home/london/aharrison-fuller/gnpd_de_packaging/gnpd_packaging_de" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2130187200/-933942901" remote-root="/home/aharrison-fuller/gnpd_de_packaging/environ/lib64/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2130187200/1046329483" remote-root="/opt/rh/python27/root/usr/lib64/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2130187200/1646818737" remote-root="/home/aharrison-fuller/gnpd_de_packaging/environ/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2130187200/-1343052241" remote-root="/opt/rh/python27/root/usr/lib64/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2130187200/1020429489" remote-root="/opt/rh/python27/root/usr/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/71109807" remote-root="/data/home/london/aharrison-fuller/gnpd_de_packaging/gnpd_packaging_de" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/-933942901" remote-root="/home/aharrison-fuller/gnpd_de_packaging/environ/lib64/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/1046329483" remote-root="/opt/rh/python27/root/usr/lib64/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/1646818737" remote-root="/home/aharrison-fuller/gnpd_de_packaging/environ/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/-1343052241" remote-root="/opt/rh/python27/root/usr/lib64/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/1020429489" remote-root="/opt/rh/python27/root/usr/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/-485473614/382247939" remote-root="/data/home/london/aharrison-fuller" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 (/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/160944109" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/dev/dennis_trunk/env (1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/dev/dennis_trunk/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/dev/dennis_trunk/env/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/dev/dennis_trunk/env/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/dev/dennis_trunk/env/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-2086111448" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/dennis_trunk" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/dev/personal_venv" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/dev/personal_venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/dev/personal_venv/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/dev/personal_venv/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/dev/personal_venv/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/1286986954" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/YouTube-Downloader" />
+    </jdk>
+  </component>
+</application>
