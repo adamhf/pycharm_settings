@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="b092121d-019c-4661-9f83-792509c62f5e" name="dev-gnpd-app13" url="http://dev-gnpd-app13.london.mintel.ad">
-        <fileTransfer host="dev-gnpd-app13.london.mintel.ad" port="22" rootFolder="/home/london/aharrison-fuller/local/moat-gnpd_stack-6/gnpd_app/src/www" accessType="SFTP" authAgent="true">
+        <fileTransfer host="dev-gnpd-app13.london.mintel.ad" port="22" rootFolder="/data/home/london/aharrison-fuller" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
