@@ -9,6 +9,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="4aa0dcc9-941b-4261-8f3e-8e2e770d5993" name="aharrison-fuller@dev-gnpd-app13.london.mintel.ad:22" url="http:///">
+        <fileTransfer host="dev-gnpd-app13.london.mintel.ad" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
